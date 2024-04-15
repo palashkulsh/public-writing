@@ -27,3 +27,7 @@ speed increase which leads to less time leading to less cost
 size reduces leads to less time,less storage, less network leads to less cost
 
 qty of data reduction leads to less time leads to less cost
+
+what are the ways to keep infrastructure cost in check
+
+1. regular review of infrastructure for any wastages.
